@@ -1,0 +1,26 @@
+{
+    "FixedFileInfo": {
+      "FileVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Patch": 0,
+        "Build": 0
+      },
+      "ProductVersion": {
+        "Major": 1,
+        "Minor": 0,
+        "Patch": 0,
+        "Build": 0
+      }
+    },
+    "StringFileInfo": {
+      "CompanyName": "Your Company",
+      "FileDescription": "Password Generator",
+      "FileVersion": "1.0.0",
+      "LegalCopyright": "© Your Company",
+      "ProductName": "Password Generator",
+      "ProductVersion": "1.0.0"
+    },
+    "IconPath": "icon.ico",
+    "ManifestPath": ""
+  }
